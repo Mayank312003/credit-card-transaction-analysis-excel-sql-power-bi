@@ -1,7 +1,7 @@
 # 💳 Credit Card Transaction Analysis
 
 An end-to-end data analysis project focused on uncovering spending patterns, transaction trends, and key financial insights from credit card transaction data.
-The project demonstrates the complete analytics workflow: data cleaning → data manipulation → business insights → interactive dashboard.
+The project demonstrates the complete analytics workflow: **data cleaning → data manipulation → business insights → interactive dashboard**.
 
 ## 📌 Project Overview
 
@@ -63,13 +63,14 @@ Examples:
 - Total Transaction Amount
 
 Total Transaction Amount = SUM(Transactions[transaction_amount])
-Total Transactions
+
+- Total Transactions
+
 Total Transactions = COUNT(Transactions[transaction_id])
 
 - Average Transaction Value
 
-Average Transaction Value = 
-DIVIDE([Total Transaction Amount], [Total Transactions])
+Average Transaction Value = DIVIDE([Total Transaction Amount], [Total Transactions])
 
 ## 📈 Key Insights
 
@@ -105,6 +106,7 @@ This project demonstrates how transaction data can be used to:
 ## 👨‍💻 Author
 
 **Mayank Yadav**
+
 **Aspiring Data Analyst | Machine Learning Enthusiast**
 
 **Skills:**
