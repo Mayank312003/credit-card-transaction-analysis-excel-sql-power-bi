@@ -62,15 +62,15 @@ Examples:
 
 - Total Transaction Amount
 
--- Total Transaction Amount = SUM(Transactions[transaction_amount])
+  Total Transaction Amount = SUM(Transactions[transaction_amount])
 
 - Total Transactions
 
--- Total Transactions = COUNT(Transactions[transaction_id])
+  Total Transactions = COUNT(Transactions[transaction_id])
 
 - Average Transaction Value
 
--- Average Transaction Value = DIVIDE([Total Transaction Amount], [Total Transactions])
+  Average Transaction Value = DIVIDE([Total Transaction Amount], [Total Transactions])
 
 ## 📈 Key Insights
 
